@@ -1,1 +1,1 @@
-# DSA
+This repository is a collection of my **Data Structures & Algorithms journey**, featuring core concepts, problem-solving techniques, algorithm implementations, complexity analysis, coding practices, and hands-on programming challenges.
